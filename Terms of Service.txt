@@ -1,0 +1,39 @@
+## Termos de Serviço do Bot Aya
+
+**Última atualização: [07/08/2024]**
+
+**1. Aceitação dos Termos**
+
+Ao interagir com o bot Aya, você concorda com os seguintes Termos de Serviço. Se você não concorda com estes termos, não utilize o bot.
+
+**2. Uso do Bot**
+
+O bot Aya é fornecido para fins de [especificar os objetivos, como automação de tarefas, entretenimento, gerenciamento de servidor, etc.]. Você deve usar o bot apenas de acordo com as leis aplicáveis e os regulamentos da plataforma onde ele está integrado.
+
+**3. Restrições**
+
+Você concorda em não:
+- Usar o bot para fins ilegais ou não autorizados.
+- Tentar interferir ou interromper o funcionamento do bot.
+- Utilizar o bot para enviar spam, assédio ou qualquer tipo de comportamento prejudicial.
+- Compartilhar ou redistribuir o código-fonte do bot sem permissão.
+
+**4. Responsabilidade**
+
+Não nos responsabilizamos por qualquer dano ou perda resultante do uso do bot Aya. Isso inclui, mas não se limita a, perda de dados, danos ao sistema ou interrupções no serviço.
+
+**5. Modificações**
+
+Podemos alterar estes Termos de Serviço a qualquer momento. Quaisquer modificações serão publicadas e, ao continuar a usar o bot após essas mudanças, você concorda com os novos termos.
+
+**6. Encerramento**
+
+Podemos suspender ou encerrar o acesso ao bot Aya a qualquer momento, sem aviso prévio, se acreditarmos que você está violando estes Termos de Serviço.
+
+**7. Contato**
+
+Se você tiver dúvidas ou preocupações sobre estes Termos de Serviço, entre em contato conosco através do [meio de contato, como e-mail ou formulário de contato].
+
+---
+
+ 
